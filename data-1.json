@@ -1,0 +1,254 @@
+[
+	{
+		"Id": 1,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "Hato Mayor",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Casa",
+		"Precio": "$30,746"
+	},
+	{
+		"Id": 2,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "Hato Mayor",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Casa de Campo",
+		"Precio": "$71,045"
+	},
+	{
+		"Id": 3,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "San Pedro de Macoris",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Casa de Campo",
+		"Precio": "$36,087"
+	},
+	{
+		"Id": 4,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "San Pedro de Macoris",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Casa de Campo",
+		"Precio": "$16,048"
+	},
+	{
+		"Id": 5,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "La Romana",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Casa",
+		"Precio": "$45,912"
+	},
+	{
+		"Id": 6,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "La Romana",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Casa de Campo",
+		"Precio": "$64,370"
+	},
+	{
+		"Id": 7,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "El Seibo",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Casa",
+		"Precio": "$2,846"
+	},
+	{
+		"Id": 8,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "El Seibo",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Apartamento",
+		"Precio": "$60,951"
+	},
+	{
+		"Id": 9,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "La Altagracia",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Casa de Campo",
+		"Precio": "$58,902"
+	},
+	{
+		"Id": 10,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "La Altagracia",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Casa",
+		"Precio": "$17,759"
+	},
+	{
+		"Id": 11,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "Santo Domingo",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Casa",
+		"Precio": "$91,067"
+	},
+	{
+		"Id": 12,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "Santo Domingo",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Casa",
+		"Precio": "$36,155"
+	},
+	{
+		"Id": 13,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "San Cristobal",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Apartamento",
+		"Precio": "$78,947"
+	},
+	{
+		"Id": 14,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "San Cristobal",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Casa de Campo",
+		"Precio": "$51,817"
+	},
+	{
+		"Id": 15,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "Samana",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Casa",
+		"Precio": "$39,561"
+	},
+	{
+		"Id": 16,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "Samana",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Apartamento",
+		"Precio": "$52,433"
+	},
+	{
+		"Id": 17,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "San Francisco de Macoris",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Apartamento",
+		"Precio": "$85,641"
+	},
+	{
+		"Id": 18,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "San Francisco de Macoris",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Casa de Campo",
+		"Precio": "$78,854"
+	},
+	{
+		"Id": 19,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "San Juan de la Maguana",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Casa de Campo",
+		"Precio": "$64,471"
+	},
+	{
+		"Id": 20,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "San Juan de la Maguana",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Apartamento",
+		"Precio": "$47,420"
+	},
+	{
+		"Id": 21,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "La Vega",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Casa de Campo",
+		"Precio": "$28,795"
+	},
+	{
+		"Id": 22,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "La Vega",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Apartamento",
+		"Precio": "$69,505"
+	},
+	{
+		"Id": 23,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "Santiago",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Casa de Campo",
+		"Precio": "$73,231"
+	},
+	{
+		"Id": 24,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "Santiago",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Casa de Campo",
+		"Precio": "$83,847"
+	},
+	{
+		"Id": 25,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "Maria Trinidad Sanchez",
+		"Telefono": "Monseñor Nouel",
+		"Codigo_Postal": "22000",
+		"Tipo": "Casa",
+		"Precio": "$93,907"
+	},
+	{
+		"Id": 26,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "Monseñor Nouel",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Casa de Campo",
+		"Precio": "$21,796"
+	},
+	{
+		"Id": 27,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "Puerto Plata",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Casa",
+		"Precio": "$97,134"
+	},
+	{
+		"Id": 28,
+		"Direccion": "C/ Antonio Guzman #69, Gualey",
+		"Ciudad": "Puerto Plata",
+		"Telefono": "809-523-1980",
+		"Codigo_Postal": "22000",
+		"Tipo": "Casa",
+		"Precio": "$32,659"
+	}
+]
